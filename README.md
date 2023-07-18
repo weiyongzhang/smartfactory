@@ -6,7 +6,7 @@ Machine Learning is a remarkably powerful tool for gaining insights into various
 
 ![Analytical Cycle](./resources/Analytics_cycle.png)
 
-![Closed Loop Manufacturing](./resources/Closed_Loop_Manufacturing.png)
+![Closed Loop](./resources/Closed_Loop_Manufacturing.png)
 
 ![Prediction](./resources/Prediction.png)
 
