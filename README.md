@@ -12,7 +12,7 @@ Machine Learning is a remarkably powerful tool for gaining insights into various
 
 ![Prediction](./resources/Prediction.png)
 
-![Feature Importance](./resources/Feature_importance.png)
+![Feature Importance](./resources/Feature_Importance.png)
 
 ![Overlay](./resources/Overlay.png)
 
