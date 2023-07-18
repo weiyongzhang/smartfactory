@@ -12,7 +12,7 @@ Closed-loop manufacturing, or smart manufacturing, mirrors the typical analytics
 ![Closed Loop With Process](./resources/closed_loop_manufacturing.png)
 
 ## Gleaning Insights through Predictive Analytics
-To exemplify this concept, we've employed an XGBoost regressor for training on a sample dataset, achieving an R^2 of 0.4 - 0.45. The visualization below compares predicted data points versus actual ones.
+To exemplify this concept, we've employed an XGBoost regressor for training on a simulated sample dataset, achieving an R^2 of 0.4 - 0.45. The visualization below compares predicted data points versus actual ones.
 
 ![Prediction](./resources/Prediction.png)
 
