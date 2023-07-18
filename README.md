@@ -39,6 +39,10 @@ The illustration below demonstrates this. The arc cost between the nodes essenti
 
 ![Illustration of Problem Setup](./resources/Decision_Flow.png)
 
+The math representation of the problem is shown below.
+
+![Math representation](./resources/math.png)
+
 The graph below shows the optimized decisions' results: we managed to reduce the standard deviation by 25% compared to previous actions.
 
 ![All Together](./resources/All_together.png)
