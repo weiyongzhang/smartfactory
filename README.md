@@ -12,7 +12,7 @@ Closed-loop manufacturing, or smart manufacturing, mirrors the typical analytics
 ![Closed Loop With Process](./resources/closed_loop_manufacturing.png)
 
 ## Gleaning Insights through Predictive Analytics
-To exemplify this concept, we've employed an XGBoost regressor for training on a sample dataset, achieving an R^2 of 0.45. The visualization below compares predicted data points versus actual ones.
+To exemplify this concept, we've employed an XGBoost regressor for training on a sample dataset, achieving an R^2 of 0.4 - 0.45. The visualization below compares predicted data points versus actual ones.
 
 ![Prediction](./resources/Prediction.png)
 
@@ -20,7 +20,7 @@ The following three charts depict the types of insights (relationships) that can
 
 ![Feature Importance](./resources/Feature.png)
 
-The feature importance graph indicates that besides time-related and machine setting features, the hourly pressure emerges as the most critical determinant for the target variable. As demonstrated below, the target variable generally mirrors the trend of the outdoor weather's hourly pressure.
+The feature importance graph indicates that besides time-related and machine setting features, the hourly pressure emerges as one of the most critical determinant for the target variable. As demonstrated below, the target variable generally mirrors the trend of the outdoor weather's hourly pressure.
 
 It's also noteworthy that each machine setting (setting A, B, C…) exerts varying impacts on the target variable.
 
