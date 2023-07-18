@@ -43,7 +43,7 @@ The math representation of the problem is shown below.
 
 ![Math representation](./resources/math.png)
 
-The graph below shows the optimized decisions' results: we managed to reduce the standard deviation by 25% compared to previous actions.
+The graph below shows the optimized decisions' results: we managed to reduce the standard deviation by 28% compared to previous actions.
 
 ![All Together](./resources/All_together.png)
 
